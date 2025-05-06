@@ -36,16 +36,9 @@
 
 ## 🧰 Tech Stack
 
-- **Frontend (Part 2):** React, TailwindCSS, Next.js
+- **Frontend:** React, TailwindCSS, Next.js
 - **Backend:** Next.js (API Routes), Prisma (ORM), Node.js
 - **Database:** PostgreSQL (via Prisma)
 - **Code Execution:** Native backend execution in a secure environment
 - **Auth:** JSON Web Tokens (JWT)
 - **Tools:** Postman for API testing
-
-## 📦 Local Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/scriptorium.git
-   cd scriptorium
